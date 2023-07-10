@@ -1,0 +1,36 @@
+## Index Section
+# name:         客户名称
+# title:        大标题
+# subtitle:     小标题，描述性
+#
+- name: album
+  id: 
+  title: Basic Informations
+  subtitle: Know something about us...
+  partial: album
+  bg_color: 
+  fluid: 
+  more: 
+
+- name: archive
+  id: 
+  title: News
+  subtitle: Check our latest events
+  partial: archive
+  bg_color: bg-light
+  fluid: 
+  more: /archive/
+
+# - name: solution
+#   id: 
+#   title: 解决方案
+#   subtitle: 品质源于专业 服务彰显真诚
+#   partial: solution
+#   bg_color: 
+
+# - name: pricing
+#   id: 
+#   title: 定制计划
+#   subtitle: 我们提供针对个人和团队的定制计划
+#   partial: pricing
+#   bg_color: 

@@ -1,0 +1,16 @@
+
+- name: Our School
+  en_name: No. 2 High School of East China Normal University
+  cover: /images/album/school.jpg
+- name: Our Spirits
+  en_name: Motto of No. 2 High School of East China Normal University
+  description: Striving for prominence in actions and intellectually independent, Surpassing thyself to smash obstacles and achieve higher goals.
+  cover: /images/album/photo-together.png
+
+  
+- name: What is FRC?
+  en_name: FRC (FIRST® Robotics Competition)
+  description: The goal of FIRST® is to inspire young people to be science and technology leaders and innovators by engaging them in exciting mentor-based programs. FIRST® holds annual robotics competitions where teams are required to build robots to compete with each other.
+  cover: /images/album/frc.jpg
+  preview: FRC Official Site
+  link: https://www.firstinspires.org/
