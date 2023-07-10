@@ -1,6 +1,6 @@
 <!-- Index -->
 
-<%- partial('_partial/page/jumbotron', {cache: true}) %>
+<%- partial('_partial/page/hero', {cache: true}) %>
 
 <section class="section py-5 bg-light">
   <div class="container">
@@ -27,9 +27,10 @@
           </div>
         <% } %>
       <% } %>
-      <% if ('more' in site.data.index[section] && site.data.index[section]['more'] !== null ) { %>
-        <div class="d-flex justify-content-center pt-5">
-          <%- link_to(site.data.index[section]['more'], '→ 查看更多',{class: 'btn btn-lg bg-white shadow-hover'}) %>
+      <% if ('more' in site.data.index[section] && site.data.index[section]['more1'] !== null ) { %>
+        <div class="d-flex justify-content-around pt-5">
+          <%- link_to(site.data.index[section]['more1'], '→ read news',{class: 'btn btn-lg bg-white shadow-hover'}) %>
+          <%- link_to(site.data.index[section]['more2'], '→ read docs',{class: 'btn btn-lg bg-white shadow-hover'}) %>
         </div>
       <% } %>
     </div>

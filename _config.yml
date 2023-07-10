@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zodiac6353
+title: Zodiac 6353
 subtitle: 'An FRC team from HSEFZ'
 description: 'Our team has a focus on team culture, team impact and sustainability in studying robotics. '
 keywords:
-author: Zodiac6353
+author: Zodiac 6353
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://zodiac6353.cn/
+url: https://www.zodiac6353.cn/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

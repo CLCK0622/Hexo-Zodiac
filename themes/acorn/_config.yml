@@ -1,8 +1,9 @@
 # Header
 menu:
   HOMEPAGE: /
-  NEWS: /news
-  DOCS: /docs
+  NEWS: /tags/news
+  DOCS: /tags/docs
+  ARCHIVE: /archives
   MEMBERS: /members
   ABOUT: /about
   CONTACT: /contact
@@ -21,8 +22,8 @@ beian:
 
 # Miscellaneous
 favicon: /favicon.ico
-webclip: /images/webclip
-brand:   /images/brand.svg
+webclip: /logo.jpg
+brand:   /logo.jpg
 
 # Jumbotron video & Hero image
 ## Jumbotron video
@@ -31,7 +32,7 @@ video:
   path: /images/
 ## Hero image
 hero: 
-  image: /images/banner.jpg
+  image: /images/album/school.jpg
 ## keen-slider
 keen_slider: 
   enable: false
@@ -40,7 +41,7 @@ keen_slider:
 slogan: 
   primary: We look at the same sky, the same star, a shared destiny.
   secondary: We are <b>FRC Zodiac 6353</b> from <b>No. 2 High School of East China Normal University</b> in Shanghai, China.
-  archives: 汇聚热点话题 打造创新思路
+  archives: See articles we have posted
   pages: Welcome to Zodiac6353!
-  posts: 实践见真知既是最好的解释
+  posts: Welcome to our posts page
 

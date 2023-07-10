@@ -14,12 +14,15 @@
 
 - name: archive
   id: 
-  title: News
+  title: Posts
   subtitle: Check our latest events
   partial: archive
   bg_color: bg-light
   fluid: 
-  more: /archive/
+  more: true
+  more1: /news/
+  more2: /docs/
+
 
 # - name: solution
 #   id: 
