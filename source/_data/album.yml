@@ -2,11 +2,11 @@
 - name: Our School
   en_name: No. 2 High School of East China Normal University
   cover: /images/album/school.jpg
+
 - name: Our Spirits
   en_name: Motto of No. 2 High School of East China Normal University
   description: Striving for prominence in actions and intellectually independent, Surpassing thyself to smash obstacles and achieve higher goals.
-  cover: /images/album/photo-together.png
-
+  cover: /images/album/photo-together.jpg
   
 - name: What is FRC?
   en_name: FRC (FIRST® Robotics Competition)
