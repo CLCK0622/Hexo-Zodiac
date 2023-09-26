@@ -3,9 +3,9 @@ title: Members
 date: 2023-09-12 08:44:51
 ---
 
-### Current Members (China RCC, 2023):
+### Current Members (2024):
 
-**Mentor**: Mr. Xiangdong Chen
+**Lead Mentor**: Mr. Xiangdong Chen
 
 **Club President**: Wenyi Li
 
