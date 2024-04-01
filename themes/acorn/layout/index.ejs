@@ -18,20 +18,14 @@
 
       <% if ('partial' in site.data.index[section]) { %>
         <div class="section-body">
-          <%- partial('_partial/'+site.data.index[section]['partial'], {pagination: 2, index: true}) %>
+          <%- partial('_partial/'+site.data.index[section]['partial'], {pagination: 1, index: true}) %>
         </div>
       <% }else if('partials' in site.data.index[section]) { %>
         <% for (var partialIndex in site.data.index[section]['partials']){%>
           <div class="section-body">
-            <%- partial('_partial/'+site.data.index[section]['partials'][partialIndex], {pagination: 2, index: true}) %>
+            <%- partial('_partial/'+site.data.index[section]['partials'][partialIndex], {pagination: 1, index: true}) %>
           </div>
         <% } %>
-      <% } %>
-      <% if ('more' in site.data.index[section] && site.data.index[section]['more1'] !== null ) { %>
-        <div class="d-flex justify-content-around pt-5">
-          <%- link_to(site.data.index[section]['more1'], '→ read news',{class: 'btn btn-lg bg-white shadow-hover'}) %>
-          <%- link_to(site.data.index[section]['more2'], '→ read docs',{class: 'btn btn-lg bg-white shadow-hover'}) %>
-        </div>
       <% } %>
     </div>
   </section>
