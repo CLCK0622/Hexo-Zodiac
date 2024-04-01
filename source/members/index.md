@@ -11,9 +11,9 @@ date: 2023-09-12 08:44:51
 
 **Student Captain**: Yi Zhong
 
-**Assistant Captain**: Yongle Liu
+with Jicheng Xiang, Xinling Ning, Yunqi Zhang, Ziteng Xu, Chenluo Deng, Youran Wang, Yunjie Shen, Yuchen Luo, Xinyue Zhang, Xiren Lin, Tianying Zhao, Ruihe Sun, Xingyu Liu, Xuancheng Liu, Zhiyuan He, Xianyun Guo, Jiankun Su, Xinyue Jiang, Jiahuan Ou, Sicheng Shen, Jiayi Shi, Yuxuan Zhu and Yanbo Wang.
 
-with Jicheng Xiang, Xinling Ning, Ziyu Liu, Yunqi Zhang, Dawei Zhang, Ziteng Xu, Chenluo Deng, Yunjie Shen, Yuchen Luo, Xinyue Zhang, Xiren Lin, Tianying Zhao, Ruihe Sun, Xingyu Liu, Xuancheng Liu, Zhiyuan He, Xianyun Guo, Jiankun Su, Xinyue Jiang, Jiahuan Ou, Sicheng Shen, Jiayi Shi, Yuxuan Zhu and Yanbo Wang.
+**Media**: Chengrong Jiang
 
 ### Outstanding Alumni (2017~2023)
 
