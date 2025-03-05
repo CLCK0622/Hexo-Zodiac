@@ -19,16 +19,30 @@ Mr. Chen is member of Communist Party of China, who gives students labor and cra
 
 As the academic advisor of our club, he works diligently and conscientiously with passion.
 
-#### Mentors
+### Sponsor
 
-##### Yuwei Gu
+Our team is affiliated to **No.2 High School of East China Normal University.**
 
-As an outstanding 6353 alumni and a current undergraduate student in Shanghai Jiaotong University, he is now tutoring the mechanical design. Yuwei is also serving as a member of SJTU-VEX team.
+http://www.hsefz.cn/
 
-##### Zechen Wang
+#### 2023-2024 Season
 
-As a former chief designer for season 2019 & 2020, he is now transferring his brilliant ideas into CAD models for 6353. Thanks to his prominent work, 6353 is able to maintain its unique design styles.
+张江集团 Zhangjiang Group
 
-##### Zhongyuan ‘Jarvis’ Zhang
+https://www.zjpark.com/
 
-As an undergraduate student at University of Chicago, Jarvis is helping the 6353 drive team remotely to stay cool on the field.
+华东师范大学第二附属中学校友会
+
+http://alumni.hsefz.cn/
+
+光速光合 Lightspeed China Partners
+
+https://www.lightspeedcp.com/
+
+辰辉教育 Glory Utopia
+
+#### 2022-2023 Season
+
+众调科技
+
+https://unicdata.com/

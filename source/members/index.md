@@ -7,24 +7,26 @@ date: 2023-09-12 08:44:51
 
 **Lead Mentor**: Mr. Xiangdong Chen
 
-**Club President**: Wenyi Li
+**Club President**: Xianyun Guo
 
-**Student Captain**: Yi Zhong
+**Student Captain**: Jiankun Su
 
-with Jicheng Xiang, Xinling Ning, Yunqi Zhang, Ziteng Xu, Chenluo Deng, Youran Wang, Yunjie Shen, Yuchen Luo, Xinyue Zhang, Xiren Lin, Tianying Zhao, Ruihe Sun, Xingyu Liu, Xuancheng Liu, Zhiyuan He, Xianyun Guo, Jiankun Su, Xinyue Jiang, Jiahuan Ou, Sicheng Shen, Jiayi Shi, Yuxuan Zhu and Yanbo Wang.
+with Xiren Lin, Ye Cao, Xingyu Liu, Yongle Liu, Chengyang Lyu, Zhiyuan He, Yi Zhong, Jiahua Ou, Xianyun Guo, Haoming Yan, Junxuan Gao, Yunqi Zhang, Jiankun Su, Zhiwen Cao, Yuhan Wang, Yining Fan, Chengxuan Fu, Xinyan Li, Zixin Liu
 
-**Media**: Chengrong Jiang
+**Media**: Chengrong Jiang, Yixin Yao, Xinchen Xu, Rongyi Zhao
 
-### Outstanding Alumni (2017~2023)
+### Outstanding Alumni (2017-2024)
 
-Yuchen Ji, Ziqian Wang, Junhong Xu ('24')
+Wenyi Li, Yi Zhong, Ziteng Xu, Yongle Liu, Yanbo Wang (\'25)
 
-Xinyue Zhuang, Jiawen Hu (’23)
+Yuchen Ji, Ziqian Wang, Junhong Xu (\'24)
 
-Yuwei Gu, Yunqi Yu (’22)
+Xinyue Zhuang, Jiawen Hu (\'23)
 
-Ziyu Kong, Zhongyuan Zhang (’21)
+Yuwei Gu, Yunqi Yu (\'22)
 
-Yuhan Xi, Ruoyu Hou (’20)
+Ziyu Kong, Zhongyuan Zhang (\'21)
 
-Zecheng Wang (’19)
+Yuhan Xi, Ruoyu Hou (\'20)
+
+Zecheng Wang (\'19)
