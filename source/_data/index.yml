@@ -10,19 +10,7 @@
   partial: album
   bg_color: 
   fluid: 
-  more: 
-
-- name: archive
-  id: 
-  title: Posts
-  subtitle: Check our latest events
-  partial: archive
-  bg_color: bg-light
-  fluid: 
-  more: true
-  more1: /news/
-  more2: /docs/
-
+  more:
 
 # - name: solution
 #   id: 

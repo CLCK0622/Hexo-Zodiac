@@ -19,30 +19,32 @@ Mr. Chen is member of Communist Party of China, who gives students labor and cra
 
 As the academic advisor of our club, he works diligently and conscientiously with passion.
 
-### Sponsor
+### Sponsors
 
-Our team is affiliated to **No.2 High School of East China Normal University.**
+Our team is affiliated with **[No.2 High School of East China Normal University](http://www.hsefz.cn/).**
 
-http://www.hsefz.cn/
+<img src="http://www.hsefz.cn/wp-content/uploads/2017/09/logo-200l20170915.png" style="max-height: 200px;" />
 
-#### 2023-2024 Season
+#### 2024-2025 Season
 
-张江集团 Zhangjiang Group
+[张江集团 Zhangjiang Group](https://www.zjpark.com/)
 
-https://www.zjpark.com/
+<img src="https://www.zjpark.com/assert/images/logo.png" style="max-height: 120px;" />
 
-华东师范大学第二附属中学校友会
+[华东师范大学第二附属中学校友会](http://alumni.hsefz.cn/)
 
-http://alumni.hsefz.cn/
+<img src="/images/album/hsefz_alumni.png" style="max-height: 150px;" />
 
-光速光合 Lightspeed China Partners
+[光速光合 Lightspeed China Partners](https://www.lightspeedcp.com/)
 
-https://www.lightspeedcp.com/
+<img src="https://lightspeed-website.oss-cn-shanghai.aliyuncs.com/upload/2023330/vc-upload-1680157713131-81.png" style="max-height: 150px;" />
 
 辰辉教育 Glory Utopia
 
+<img src="/images/album/辰辉教育.png" style="max-height: 150px;" />
+
 #### 2022-2023 Season
 
-众调科技
+[众调科技](https://unicdata.com/)
 
-https://unicdata.com/
+<img src="/images/album/unicdata.jpg" style="max-height: 150px;" />

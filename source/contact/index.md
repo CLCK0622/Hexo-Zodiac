@@ -14,16 +14,8 @@ Please make sure you have contacted teacher, student captain and publicity membe
 
 <div class="row">
   <div class="col" align="center">
-  <h4>Phone</h4>
-  Monday to Friday<br />
-  8 a.m. to 18 p.m. UTC +8:00<br />
-  Statutory holidays <b>excluded</b>.<br />
-  </div>
-  <div class="col" align="center">
   <h4>Email</h4>
-  Mentor, <a href="mailto:chenxiangdong@hsefz.cn">chenxiangdong@hsefz.cn</a><br />
-  Club President, <a href="mailto:liwenyi@hsefz.cn">liwenyi@hsefz.cn</a><br />
-  Student Captain, <a href="mailto:zhongyi@hsefz.cn">zhongyi@hsefz.cn</a><br />
+  Mentor, <a href="mailto:chenxiangdong@outlook.com">chenxiangdong@outlook.com</a>
   </div>
   <div class="col" align="center">
   <h4>Campus Site</h4>
